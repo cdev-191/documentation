@@ -2,23 +2,16 @@
 
 Un wiki pour partager les liens intéressants
 
-## Organisation
+## Utilisation
 
-Les liens sont rangés par **module** (ou "cours"), ex. : Design Patterns
+Les _liens_ sont dans l'onglet *wiki*, les _supports de cours_ et autres fichiers sont rangés dans des sous-dossiers du *dépôt*.
 
-## Comment l'utiliser ?
+Le *wiki* comme le *dépôt* sont triés par **module** (ou "cours"), ex. : Design Patterns.
 
-Aller dans l'onglet *wiki*, puis l'on édite directement la page.
+## Partager des liens
 
-Alternativement, il est possible de cloner le wiki en local :
+- Depuis GitHub: Aller sur la page correspondante au *module*, utiliser l'action *editer*
 
-    git clone https://github.com/cdev-191/documentation.wiki.git
-    
-Il faut mettre à jour la source :
+## Partager des fichiers
 
-    cd documentation.wiki
-    git pull origin master
-
-Puis l'on peut pousser ses modifications :
-  
-    git push origin master
+- Depuis GitHub: Aller dans le sous-dossier correspondant au *module*, utiliser l'action *upload file*
