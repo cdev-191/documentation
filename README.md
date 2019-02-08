@@ -11,7 +11,17 @@ Le *wiki* comme le *dépôt* sont triés par **module** (ou "cours"), ex. : Desi
 ## Partager des liens
 
 - Depuis GitHub: Aller sur la page correspondante au *module*, utiliser l'action *editer*
+- Depuis une copie locale :
+  - cloner le wiki OU
+  - mettre à jour le wiki local
+  - commiter les modifications
+  - pousser le wiki
 
 ## Partager des fichiers
 
 - Depuis GitHub: Aller dans le sous-dossier correspondant au *module*, utiliser l'action *upload file*
+- Depuis un dépôt local :
+  - cloner le dépôt OU
+  - mettre à jour le dépôt local
+  - commiter les modifications
+  - pousser le dépôt local vers le dépôt distant
